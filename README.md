@@ -1,5 +1,6 @@
 ###### Hi there 👋
 Meet Simson, Currently working with [Web3labs](https://github.com/web3j)
+[Linkedin](https://www.linkedin.com/in/simsonraj/) || [Gmail](mailto:mailharshkhatri@gmail.com)
 
 Check out his works:
 <br/>
@@ -14,7 +15,6 @@ Contributions:
 Projects:
 - [Fabric SDK boiler plate](https://github.com/simsonraj/fabric-sdk-nestjs)
 
-[Linkedin](https://www.linkedin.com/in/simsonraj/) || [Gmail](mailto:mailharshkhatri@gmail.com)
 <!--
 **simsonraj/simsonraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
