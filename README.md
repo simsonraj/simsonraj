@@ -3,7 +3,6 @@ Meet Simson, Currently working with [Web3labs](https://github.com/web3j) <br/>
 [Linkedin](https://www.linkedin.com/in/simsonraj/) || [Gmail](mailto:mailharshkhatri@gmail.com)
 
 Check out his works:
-<br/>
 <br/>PR:
 - [Harmony One network SHA3 Precompiles](https://github.com/harmony-one/harmony/pull/3801)
 - [Binance Smart chain](https://github.com/binance-chain/bsc/pull/357)
