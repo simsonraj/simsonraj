@@ -1,5 +1,5 @@
 ###### Hi there 👋
-Meet Simson, Currently working with [Web3labs](https://github.com/web3j)
+Meet Simson, Currently working with [Web3labs](https://github.com/web3j) <br/>
 [Linkedin](https://www.linkedin.com/in/simsonraj/) || [Gmail](mailto:mailharshkhatri@gmail.com)
 
 Check out his works:
