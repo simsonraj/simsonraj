@@ -10,6 +10,7 @@ Check out his works:
 
 Contributions:
 - [ICON Project](https://github.com/icon-project/btp)
+- [ICE Network](https://github.com/web3labs/ice-substrate)
 
 Projects:
 - [Fabric SDK boiler plate](https://github.com/simsonraj/fabric-sdk-nestjs)
