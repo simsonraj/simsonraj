@@ -2,7 +2,7 @@
 Meet Simson, Blockchain developer <br/>
 [Linkedin](https://www.linkedin.com/in/simsonraj/) || [Gmail](mailto:mailharshkhatri@gmail.com)
 
-Check out his works:
+Highlights:
 <br/>PR:
 - [Harmony One network SHA3 Precompiles](https://github.com/harmony-one/harmony/pull/3801)
 - [Binance Smart chain](https://github.com/binance-chain/bsc/pull/357)
