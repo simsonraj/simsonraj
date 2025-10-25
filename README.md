@@ -4,6 +4,7 @@ Meet Simson, Blockchain developer <br/>
 
 Highlights:
 <br/>PR:
+- [Ethereum RPC error codes standardization ](https://github.com/ethereum/execution-apis/pull/650)
 - [Harmony One network SHA3 Precompiles](https://github.com/harmony-one/harmony/pull/3801)
 - [Binance Smart chain](https://github.com/binance-chain/bsc/pull/357)
 - [Ava labs- Avalance Blockchain](https://github.com/ava-labs/coreth/pull/167)
