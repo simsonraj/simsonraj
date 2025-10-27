@@ -1,5 +1,4 @@
 ###### Hi there 👋
-Meet Simson, Blockchain developer <br/>
 [Linkedin](https://www.linkedin.com/in/simsonraj/) || [Gmail](mailto:mailharshkhatri@gmail.com)
 
 Highlights:
